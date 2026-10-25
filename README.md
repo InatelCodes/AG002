@@ -2,7 +2,7 @@
 
 Classificação do canal de vendas (HoReCa ou Retail) de clientes de um atacadista, com Decision Tree (scikit-learn).
 
-Autoras: [Bruna Magalhães](https://github.com/BrunaDev) e Lilyan Oliveira
+Autoras: [Bruna Magalhães](https://github.com/BrunaDev) e [Lilyan Oliveira](https://github.com/Lilyan-Oliveira) 
 
 ## Como rodar
 1. `pip install -r requirements.txt` ou `py -m pip install -r requirements.txt`
