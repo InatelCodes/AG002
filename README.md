@@ -4,6 +4,8 @@ Classificação do canal de vendas (HoReCa ou Retail) de clientes de um atacadis
 
 Autoras: [Bruna Magalhães](https://github.com/BrunaDev) e [Lilyan Oliveira](https://github.com/Lilyan-Oliveira) 
 
+Vídeo da demonstração disponível em: <https://www.youtube.com/watch?v=dlIs6Pn84-k>
+
 ## Como rodar
 1. `pip install -r requirements.txt` ou `py -m pip install -r requirements.txt`
 2. Abrir `ag002.ipynb` (Jupyter ou Colab, com `wholesale.csv` na mesma pasta) e executar as células em ordem.
